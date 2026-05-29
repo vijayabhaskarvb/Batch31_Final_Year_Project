@@ -1,0 +1,38 @@
+# Web Framework
+flask
+gunicorn
+
+# TensorFlow & Keras - pinned to match h5 model format
+tensorflow==2.16.1
+keras==3.3.3
+
+# Computer Vision
+opencv-python-headless
+
+# Data & ML
+numpy
+pandas
+scikit-learn==1.6.1
+
+# Groq (direct client for vision + chat)
+groq
+
+# LangChain core
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-pinecone
+
+# Vector Database
+pinecone-client
+
+# HuggingFace Embeddings
+sentence-transformers
+
+# Environment Variables
+python-dotenv
+
+# Computer Vision
+opencv-python-headless
+Pillow
